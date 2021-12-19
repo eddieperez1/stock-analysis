@@ -15,9 +15,15 @@ The stocks in 2017 had mostly increases while one had a decrease of about 7%. Th
 ![stocks2018](https://github.com/eddieperez1/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ### Refactored Code vs Original Code Runtimes
-The reactored code is much faster than the original code at least a second faster. 
+The reactored code is much faster than the original code at least a second faster. The refactored code uses a single loop with arrays while the original code uses a nested loop.
+
+**The Original Code Runtimes:**
+
 ![Original Code 2017](https://github.com/eddieperez1/stock-analysis/blob/main/Screenshots/originalCode2017.png)
 ![Original Code 2018](https://github.com/eddieperez1/stock-analysis/blob/main/Screenshots/originalCode2018.png)
+
+**The Refactored Code Runtimes:**
+
 ![Refactored Code 2017](https://github.com/eddieperez1/stock-analysis/blob/main/Screenshots/refactoredCode2017.png)
 ![Refactored Code 2018](https://github.com/eddieperez1/stock-analysis/blob/main/Screenshots/refactoredCode2018.png)
 ## Summary
