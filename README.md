@@ -27,3 +27,14 @@ The reactored code is much faster than the original code at least a second faste
 ![Refactored Code 2017](https://github.com/eddieperez1/stock-analysis/blob/main/Screenshots/refactoredCode2017.png)
 ![Refactored Code 2018](https://github.com/eddieperez1/stock-analysis/blob/main/Screenshots/refactoredCode2018.png)
 ## Summary
+### Code Refactoring
+Code Refactoring can increase the efficiency of code, and make it easier to work with. All of this makes it easier to fix bugs and makes it easier to read. Disadvantages to code refactoring are that code needs to be completely understood. If one is missing knowledge of the code, then it makes it challenging to refactor the code. Code refactoring can be time consuming.
+
+Sources:
+
+[Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+
+[Anarsolutions](https://anarsolutions.com/code-refactoring-concept-analysis/)
+
+### VBA Script
+The pros to code refactoring the VBA script are faster runtimes, results are stored in arrays and only one main loop is used. Since the results are stored in arrays, conditionals can be applied to the results in the VBA script. Also one main loop makes code easier to read and makes it run faster. The con to code refactoring the VBA script would be time consumption. Since I wrote the code, I dont have to worry about not understanding the code. It is possible to have written the refactored code without writing the original code. 
