@@ -11,6 +11,7 @@ return = ending price / starting price - 1
 ```
 ### Stocks
 The stocks in 2017 had mostly increased while one had a decrease of about 7%. The stocks in 2018 have mostly decreased except ENPH and RUN which had increased. ENPH and RUN had increased over 2017 and 2018. Thus Steve's parents should invest in ENPH and RUN.
+
 ![stocks2017](https://github.com/eddieperez1/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![stocks2018](https://github.com/eddieperez1/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
